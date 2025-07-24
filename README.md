@@ -1,15 +1,17 @@
 # LoginUI – Android Login App with Firebase
 
-A modern login/registration UI built using Jetpack Compose and integrated with Firebase Authentication. Supports login, sign-up, and personalized greeting using Firebase `displayName`.
+A modern login/registration UI built using Jetpack Compose and integrated with Firebase Authentication. Supports login, sign-up, and personalized greeting using Firebase displayName.
 
 ## 📱 Features
 
-- 🔐 Sign up and log in using email and password
-- 👤 Store and display user name via Firebase `displayName`
-- 👋 Personalized Home Screen greeting: "Hello, [username]"
-- 🖼️ Custom background with blur effects
-- 👁️ Password visibility toggle
-- ✅ Input validation for all fields
+🔐 Sign up and log in using email and password  
+👤 Store and display user name via Firebase displayName  
+📍 Store and edit age and location via Firestore  
+👋 Personalized Home Screen greeting: "Hello, [username]"  
+🖼️ Optional profile picture upload (requires Firebase Blaze plan)  
+🎨 Custom background with blur effects  
+👁️ Password visibility toggle  
+✅ Input validation for all fields
  
 <h2> 📸 Screenshots
 
