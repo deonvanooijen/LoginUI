@@ -8,7 +8,6 @@ A modern login/registration UI built using Jetpack Compose and integrated with F
 👤 Store and display user name via Firebase displayName  
 📍 Store and edit age and location via Firestore  
 👋 Personalized Home Screen greeting: "Hello, [username]"  
-🖼️ Optional profile picture upload (requires Firebase Blaze plan)  
 🎨 Custom background with blur effects  
 👁️ Password visibility toggle  
 ✅ Input validation for all fields
